@@ -1,0 +1,7 @@
+/* Add a teal background color to the Name in nav bar  */
+.navbar-brand {
+    background-color: #4AAAA5;
+    /* color: #ffffff; */
+    /* font-family: "Garamond Nova Pro Bold", "Garamond", serif; */
+}
+
