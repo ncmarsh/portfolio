@@ -1,7 +1,49 @@
+/* Background Image  */
+.wallpaper {
+    background-image: url("https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
 /* Add a teal background color to the Name in nav bar  */
 .navbar-brand {
     background-color: #4AAAA5;
-    /* color: #ffffff; */
-    /* font-family: "Garamond Nova Pro Bold", "Garamond", serif; */
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
 }
 
+/* Content style  */
+.container {
+    background-color: #ffffff;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 30px;
+    
+}
+
+h1 {
+    color: #4AAAA5;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+/* Contact submit button  */
+.btn-primary{
+    background-color: #4AAAA5;
+    border: none;
+    border-radius: 2px;
+    padding: 16px 28px;
+}
+
+/* About page style  */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.myPic{
+    float: left;
+    width: 175px;
+    height: 175px;
+}
