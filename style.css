@@ -15,6 +15,10 @@
 }
 
 /* Content style  */
+.container {
+    margin-left: .25rem;
+}
+
 main,
 form {
     background-color: #ffffff;
@@ -38,7 +42,7 @@ img {
 
 /* Contact page style */
 /* Submit button  */
-.btn-primary{
+.btn-primary {
     background-color: #4AAAA5;
     border: none;
     border-radius: 2px;
@@ -52,8 +56,13 @@ p {
 }
 
 /* My Picture  */
-.myPic{
+.myPic {
     float: left;
     width: 200px;
     height: 200px;
+}
+
+/* Footer  */
+#footer {
+    font-size: .75rem;
 }
