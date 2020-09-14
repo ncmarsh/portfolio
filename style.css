@@ -18,7 +18,7 @@
 main,
 form {
     background-color: #ffffff;
-    margin: 3rem 2rem;
+    margin: 3rem 1rem;
     padding: 2rem;
 }
 
@@ -31,9 +31,9 @@ h1 {
 /* Portfolio page  */
 /* Portfolio images  */
 img {
-    width: 250px;
-    height: 250px;
-    /* padding: 25px; */
+    width: 350px;
+    height: 350px;
+    margin: 1rem;
 }
 
 /* Contact page style */
