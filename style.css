@@ -65,4 +65,10 @@ p {
 /* Footer  */
 #footer {
     font-size: .75rem;
+    color: #4AAAA5;
+}
+
+#nav-bottom {
+    background-color: #666666 !important;
+    border-top: 4px solid #4AAAA5;
 }
