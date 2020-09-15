@@ -4,7 +4,7 @@
 
 Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web page based on specific screenshots of the pages at varying display widths: 400px, 768px, and 992px.
 
-![Examples](assets/examples.gif)
+![Examples](Assets/examples.gif)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ To recreate the screenshots given to me, I began by setting up the layout first 
 
 ## Demo
 
-![Website Functions](assets/website.gif)
+![Website Functions](Assets/website.gif)
 
 ## Validation
 
@@ -59,7 +59,7 @@ My next steps with this project will be to personalize it with a different color
 
 ## Links
 
-- [Project Repository](https://github.com/ncmarsh/hw2_responsive_portfolio)
+- [Project Repository](https://github.com/ncmarsh/2_responsive_portfolio) 
 - [Portfolio Web Page](https://ncmarsh.github.io/hw2_responsive_portfolio/)
 
 ### Contributing
