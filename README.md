@@ -1,6 +1,6 @@
-# Homework 2 - Responsive Portfolio
+# Responsive Portfolio
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2Fhw2_responsive_portfolio%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2F2_responsive_portfolio%2F)
 
 Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web page based on specific screenshots of the pages at varying display widths: 400px, 768px, and 992px.
 
@@ -60,7 +60,7 @@ My next steps with this project will be to personalize it with a different color
 ## Links
 
 - [Project Repository](https://github.com/ncmarsh/2_responsive_portfolio) 
-- [Portfolio Web Page](https://ncmarsh.github.io/hw2_responsive_portfolio/)
+- [Portfolio Web Page](https://ncmarsh.github.io/2_responsive_portfolio/)
 
 ### Contributing
 
@@ -70,4 +70,4 @@ This is a personal project; no contributions are required at this time.
 
 No license granted.
 
-##### [Return to Top of Page](#Homework-2---Responsive-Portfolio)
+##### [Return to Top of Page](#Responsive-Portfolio)
