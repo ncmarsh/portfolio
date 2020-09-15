@@ -11,6 +11,7 @@ Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web p
 1. [Usage](#Usage)
 1. [Languages and Concepts](#Languages-and-Concepts)
 1. [Method](#Method)
+1. [Demo](#Demo)
 1. [Validation](#Validation)
 1. [Roadmap](#Roadmap)
 1. [Links](#Links)
@@ -40,6 +41,8 @@ To recreate the screenshots given to me, I began by setting up the layout first 
 1. To get the line underneath my \<h1>'s, I added the \<hr /> tag to all three pages. I then made adjustments to my .container class and the \<main> and \<form> tags in the CSS. I added an id# to the \<nav class="navbar"> tag in order to color my font white, as to override more specific preset CSS classes. And I made adjustments to the column sizes of the Contact and About pages and adjusted the margins on the \<main> and \<form> tags.
 1. My last page to make adjustments to was the Portfolio page. I adjusted the rows and columns to make it respond the way it was shown in the screenshots and changed the image sizes so they were a little larger.
 1. Lastly, I added a sticky \<footer> to the bottom of the page and adjusted the left margins on the .container classes.
+
+## Demo
 
 ![Website Functions](assets/website.gif)
 
