@@ -1,6 +1,8 @@
 # Responsive Portfolio
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2F2_responsive_portfolio%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2Fportfolio%2F)
+![GitHub language count](https://img.shields.io/github/languages/count/ncmarsh/portfolio)
+![GitHub top language](https://img.shields.io/github/languages/top/ncmarsh/portfolio)
 
 Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web page based on specific screenshots of the pages at varying display widths: 400px, 768px, and 992px.
 
@@ -12,7 +14,6 @@ Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web p
 1. [Languages and Concepts](#Languages-and-Concepts)
 1. [Method](#Method)
 1. [Demo](#Demo)
-1. [Validation](#Validation)
 1. [Roadmap](#Roadmap)
 1. [Links](#Links)
 1. [Contact](#Contact)
@@ -46,13 +47,6 @@ To recreate the screenshots given to me, I began by setting up the layout first 
 ## Demo
 
 ![Website Functions](Assets/website.gif)
-
-## Validation
-
-Once I had completed my Responsive Porfolio web pages, I ran it through an HTML Validation Service. I used [W3C Markup Validation Service](https://validator.w3.org/). Upon finding an error, I went back into my code, corrected it and ran it again. This time it came back with no errors.
-
-![Validation Attempt 1](validation/validation1.png)
-![Validation Attempt 2](validation/validation2.png)
 
 ## Roadmap
 
