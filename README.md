@@ -15,6 +15,7 @@ Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web p
 1. [Validation](#Validation)
 1. [Roadmap](#Roadmap)
 1. [Links](#Links)
+1. [Contact](#Contact)
 1. [Contributing](#Contributing)
 1. [License](#License)
 
@@ -62,11 +63,15 @@ My next steps with this project will be to personalize it with a different color
 - [Project Repository](https://github.com/ncmarsh/2_responsive_portfolio) 
 - [Portfolio Web Page](https://ncmarsh.github.io/2_responsive_portfolio/)
 
-### Contributing
+## Contact
+
+- Nicole Marshall - [@ncmarsh](https://github.com/ncmarsh)
+
+## Contributing
 
 This is a personal project; no contributions are required at this time.
 
-### License
+## License
 
 No license granted.
 
