@@ -1,9 +1,6 @@
 /* Background Image  */
 .wallpaper {
-    /* background-image: url("https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); */
     background-image: url("https://images.pexels.com/photos/2253573/pexels-photo-2253573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-    /* background-image: url("https://images.pexels.com/photos/158385/lake-mcdonald-landscape-panorama-sunset-158385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); */
-    /* background-image: url("https://images.pexels.com/photos/71177/pexels-photo-71177.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"); */
     background-size: cover;
     background-repeat: no-repeat; 
     background-attachment: fixed;
