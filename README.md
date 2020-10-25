@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2F2_responsive_portfolio%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2Fportfolio%2F)
 
 Utilizing Bootstrap as the CSS framework, I created a responsive portfolio web page based on specific screenshots of the pages at varying display widths: 400px, 768px, and 992px.
 
