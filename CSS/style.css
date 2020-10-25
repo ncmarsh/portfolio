@@ -9,12 +9,22 @@
     background-attachment: fixed;
 }
 
-/* Add a teal background color to the Name in nav bar  */
+/* Navbar  */
+.navbar {
+    background-color: #2893B0;
+    border-bottom: 4px solid #343A40;
+}
+
 #navbar-brand {
-    background-color: #4AAAA5;
     color: white;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
+    /* font-family: "Times New Roman", Times, serif; */
+    /* font-weight: bold; */
+    font-size: 32px;
+    padding-bottom: 0;
+}
+
+.nav-link {
+    font-size: 24px;
 }
 
 /* Content style  */
@@ -27,12 +37,14 @@ form {
     background-color: #ffffff;
     margin: 3rem 1rem;
     padding: 2rem;
+    border-radius: 15px;
 }
 
-h1 {
-    color: #4AAAA5;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
+h1,
+h2 {
+    color: #2893B0;
+    /* font-family: "Times New Roman", Times, serif; */
+    /* font-weight: bold; */
 }
 
 /* Portfolio page  */
@@ -59,38 +71,42 @@ h1 {
 /* Contact page style */
 /* Submit button  */
 .btn-primary {
-    background-color: #4AAAA5;
+    background-color: #2893B0;
     border: none;
-    border-radius: 2px;
-    padding: 16px 28px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 1rem;
 }
 
 /* About page style  */
 /* Font */
 p {
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 /* My Picture  */
 .myPic {
     float: left;
     margin-right: 0.5rem;
-    /* width: 200px; */
-    /* height: 200px; */
 }
 
 /* Contact Info */
+ul {
+    list-style-type: none;
+}
+
 .contact-info-title {
     font-weight: bold;
+    color: #343A40;
 }
 
 /* Footer  */
-#footer {
-    font-size: .75rem;
-    color: #4AAAA5;
+#nav-bottom {
+    border-top: 4px solid #2893B0;
+    border-bottom: none;
 }
 
-#nav-bottom {
-    background-color: #666666 !important;
-    border-top: 4px solid #4AAAA5;
+#footer {
+    font-size: .75rem;
+    color: #2893B0;
 }
