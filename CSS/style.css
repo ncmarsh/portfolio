@@ -38,7 +38,10 @@ h1 {
 /* Portfolio page  */
 /* Projects */
 .project-card {
-    margin: 1rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 16rem;
+    height: auto;
     background-color: #cfcfcf;
     border-color: #1b1b1b;
 }
@@ -50,9 +53,7 @@ h1 {
 }
 
 .project-img {
-    width: 400px;
-    height: 350px;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 /* Contact page style */
@@ -73,8 +74,9 @@ p {
 /* My Picture  */
 .myPic {
     float: left;
-    width: 200px;
-    height: 200px;
+    margin-right: 0.5rem;
+    /* width: 200px; */
+    /* height: 200px; */
 }
 
 /* Contact Info */
