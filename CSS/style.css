@@ -19,7 +19,7 @@
 
 /* Content style  */
 .container {
-    margin-left: .25rem;
+    margin-left: 6rem;
 }
 
 main,
@@ -36,11 +36,23 @@ h1 {
 }
 
 /* Portfolio page  */
-/* Portfolio images  */
-img {
-    width: 350px;
-    height: 350px;
+/* Projects */
+.project-card {
     margin: 1rem;
+    background-color: #cfcfcf;
+    border-color: #666666;
+}
+
+.project-title {
+    margin: .75rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.project-img {
+    width: 400px;
+    height: 350px;
+    padding: 1rem;
 }
 
 /* Contact page style */
@@ -63,6 +75,11 @@ p {
     float: left;
     width: 200px;
     height: 200px;
+}
+
+/* Contact Info */
+.contact-info-title {
+    font-weight: bold;
 }
 
 /* Footer  */
