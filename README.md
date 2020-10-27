@@ -6,7 +6,7 @@
 
 
 
-<!-- ![Examples](Assets/examples.gif) -->
+![Examples](Assets/Demo/quick-portfolio-demo.gif)
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@
 
 ## Demo
 
-<!-- ![Website Functions](Assets/website.gif) -->
+![Full Portfolio Demo](Assets/Demo/full-demo.gif)
 
 ## Roadmap
 
@@ -44,7 +44,7 @@
 
 ## Links
 
-- [Portfolio Web Page](https://ncmarsh.github.io/portfolio/)
+- [Live Portfolio Web Page](https://ncmarsh.github.io/portfolio/)
 - [Project Repository](https://github.com/ncmarsh/portfolio) 
 
 ## Contact
