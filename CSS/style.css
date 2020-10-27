@@ -75,6 +75,10 @@ h3 {
     margin-top: 1rem;
 }
 
+.btn-primary:hover {
+    background-color: #343A40;
+}
+
 /* About page style  */
 /* Font */
 /* p { */
