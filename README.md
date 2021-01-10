@@ -40,7 +40,7 @@ Users (and hopefully recruiters!) can quickly and easily view my most recent pro
 
 ## Roadmap
 
-Now that I have added some personalized touches to the portfolio, I need to add functionality to the contact form. I would also like to add more projects to the portfolio page. And I would like to explore the idea of a feedback page, where users can offer feedback on what they see, offer advice, or propose new project ideas (either for me to work on or to work on together!)
+Now that I have more projects under my belt, I want to explore adding more interactive objects to my portfolio, like hover effects and image slideshows. I want to add functionality to the contact form and I would like to explore the idea of a feedback page, where users can offer feedback on what they see, offer advice, or propose new project ideas (either for me to work on or to work on together!).
 
 ## Links
 
