@@ -2,7 +2,6 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelopeOpen, faFilePdf, faPhoneSquare, faUser } from "@fortawesome/free-solid-svg-icons";
-import Resume from "../images/Nicole_Marshall_resume.pdf";
 
 const styles = {
     list: {
@@ -39,7 +38,7 @@ function ContactInfo() {
             <li>
                 <FontAwesomeIcon icon={faFilePdf} />
                 <span style={styles.itemTitle}> View: </span> 
-                <a href={Resume} target="_blank">Resume</a>
+                <a href={process.env.PUBLIC_URL + "/assets/Nicole_Marshall_resume.pdf"} target="_blank">Resume</a>
             </li>
             {/* Phone */}
             <li>

@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "../components/Grid";
 import ContentCard from "../components/ContentCard";
 import ContactInfo from "../components/ContactInfo";
-import profilePic from "../images/headshot.jpg";
 
 const styles = {
     myPic: {
@@ -21,7 +20,7 @@ function About() {
                     <Col size="xs-8 md-10">
                         <h1>About Me</h1>
                         <hr />
-                        <img className="img-fluid" style={styles.myPic} src={profilePic} alt="headshot" />
+                        <img className="img-fluid" style={styles.myPic} src={process.env.PUBLIC_URL + "/assets/headshot.jpg"} alt="headshot" />
                         <p>
                             Hello and welcome to my page! My name is Nicole Marshall and I am a Front-End Developer who has earned a certificate in Full-Stack Web Development from the University of Washington Coding Boot Camp in February 2021. I enjoy building intuitive, responsive and interactive web applications, both on my own and through collaboration with a team. Among the coding languages I have learned so far, I have found that I enjoy using JavaScript the most because of its versatility of creating both interactive and static elements and its usability between front-end and back-end development.
                         </p>
