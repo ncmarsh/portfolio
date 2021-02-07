@@ -5,3 +5,8 @@ body {
     background-repeat: no-repeat; 
     background-attachment: fixed;
 }
+
+h1,
+h3 {
+    color: #2893B0;
+}
