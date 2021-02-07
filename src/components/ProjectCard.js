@@ -1,14 +1,15 @@
 import React from "react";
+import "./ProjectCard.css";
 
-function ProjectCard() {
+function ProjectCard(props) {
     return (
-        <div className="card project-card">
-            <h5 className="project-title">PNW Whale Watching</h5>
+        <div className="card" id="project-card">
+            <h5 className="project-title">{props.title}</h5>
             <ul>
-                <li><a href="https://fathomless-springs-89027.herokuapp.com/" target="_blank">Visit the Live Page</a></li>
-                <li><a href="https://github.com/watchNW/whale-watching" target="_blank">GitHub Repository</a></li>
+                <li><a href={props.liveUrl} target="_blank">Visit the Live Page</a></li>
+                <li><a href={props.repoUrl} target="_blank">GitHub Repository</a></li>
             </ul>
-            <img class="img-fluid project-img" src="../../oldcode/Assets/Projects/whales_home_screenshot.png" alt="PNW Whale Watching screenshot" />
+            <img className="img-fluid project-img" src={props.image} alt={props.alt} />
         </div>
     )
 }
