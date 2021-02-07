@@ -1,0 +1,11 @@
+#submitBtn {
+    background-color: #2893B0;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 1rem;
+}
+
+#submitBtn:hover {
+    background-color: #343A40;
+}
