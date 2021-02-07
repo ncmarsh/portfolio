@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/ncmarsh/portfolio/issues"
   },
-  "homepage": "https://github.com/ncmarsh/portfolio",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "react": "^17.0.1",
