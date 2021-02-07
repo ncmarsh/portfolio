@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "PNW Whale Watching",
+        "liveUrl": "https://fathomless-springs-89027.herokuapp.com/",
+        "repoUrl": "https://github.com/watchNW/whale-watching",
+        "image": "/images/whales_home_screenshot.png",
+        "alt": "PNW Whale Watching screenshot"
+    },
+    {
+        "id": 2,
+        "title": "What's for Dinner?",
+        "liveUrl": "https://ncmarsh.github.io/whats-for-dinner/",
+        "repoUrl": "https://github.com/ncmarsh/whats-for-dinner",
+        "image": "/images/whats_for_dinner_screenshot.png",
+        "alt": "What's for Dinner screenshot"
+    },
+    {
+        "id": 3,
+        "title": "Note Taker",
+        "liveUrl": "https://protected-eyrie-40326.herokuapp.com/",
+        "repoUrl": "https://github.com/ncmarsh/note_taker",
+        "image": "/images/notes_home_screenshot.png",
+        "alt": "Note Taker screenshot"
+    },
+    {
+        "id": 4,
+        "title": "Team Generator",
+        "liveUrl": "https://www.youtube.com/watch?v=CNFqOki0PWo&feature=youtu.be",
+        "repoUrl": "https://github.com/ncmarsh/software_engineering_team_generator",
+        "image": "/images/teampage_screenshot.png",
+        "alt": "Team Generator screenshot"
+    },
+    {
+        "id": 5,
+        "title": "Weather Dashboard",
+        "liveUrl": "https://ncmarsh.github.io/6_weather_dashboard/",
+        "repoUrl": "https://github.com/ncmarsh/6_weather_dashboard",
+        "image": "/images/weather_dashboard_screenshot.png",
+        "alt": "Weather Dashboard screenshot"
+    },
+    {
+        "id": 6,
+        "title": "Day Planner",
+        "liveUrl": "https://ncmarsh.github.io/5_dayplanner/",
+        "repoUrl": "https://github.com/ncmarsh/5_dayplanner",
+        "image": "/images/dayplanner_screenshot.png",
+        "alt": "Day Planner screenshot"
+    }
+]
