@@ -9,7 +9,7 @@ function ProjectCard(props) {
                 <li><a href={props.liveUrl} target="_blank">Visit the Live Page</a></li>
                 <li><a href={props.repoUrl} target="_blank">GitHub Repository</a></li>
             </ul>
-            <img className="img-fluid project-img" src={props.image} alt={props.alt} />
+            <img className="img-fluid project-img" src={process.env.PUBLIC_URL + props.image} alt={props.alt} />
         </div>
     )
 }
