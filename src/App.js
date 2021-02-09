@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
@@ -11,7 +11,7 @@ import NoMatch from "./pages/NoMatch";
 const App = () => {
     document.title = "NM-Portfolio";
     return (
-        <Router>
+        <HashRouter>
             <div>
                 <Navbar />
                 <Switch>
@@ -30,7 +30,7 @@ const App = () => {
                 </Switch>
                 <Footer />
             </div>
-        </Router>
+        </HashRouter>
     );
 };
 
