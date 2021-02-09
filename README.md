@@ -1,12 +1,11 @@
 # Nicole Marshall's Portfolio
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fncmarsh.github.io%2Fportfolio%2F)
 ![GitHub language count](https://img.shields.io/github/languages/count/ncmarsh/portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/ncmarsh/portfolio)
 
 Welcome to my Portfolio, where you can find the most up to date information about my experience as a Full-Stack Web Developer.
 
-![Examples](Assets/Demo/quick-portfolio-demo.gif)
+![Examples](./public/demo/quick-portfolio-demo.gif)
 
 ## Table of Contents
 
@@ -22,29 +21,30 @@ Welcome to my Portfolio, where you can find the most up to date information abou
 
 ## About the Project
 
-This Portfolio site features my most recent projects including live and GitHub repository links, along with my contact information and ways to connect, making it a one-stop-shop!
+This Portfolio site features my most recent projects including live and GitHub repository links, along with my contact information and ways to connect.
 
 ## Languages and Concepts
 
-- HTML5
-- CSS
-- [Bootstrap](https://getbootstrap.com/) CSS Framework
+- [React.js](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
 
 ## Usage
 
-Users (and hopefully recruiters!) can quickly and easily view my most recent projects accompanied by links to find out more, by being able to view my GitHub and LinkedIn profiles and my resume, along with ways to contact me, including a contact form for the user to connect directly through the website.
+Users (and hopefully recruiters!) can quickly and easily view my most recent projects accompanied by links to find out more, by being able to view my GitHub and LinkedIn profiles and my resume, along with ways to contact me and find out more about my time as a Web Developer.
 
 ## Demo
 
-![Full Portfolio Demo](Assets/Demo/full-demo.gif)
+![Full Portfolio Demo](./public/demo/full-demo.gif)
 
 ## Roadmap
 
-Now that I have more projects under my belt, I want to explore adding more interactive objects to my portfolio, like hover effects and image slideshows. I want to add functionality to the contact form and I would like to explore the idea of a feedback page, where users can offer feedback on what they see, offer advice, or propose new project ideas (either for me to work on or to work on together!).
+Now that I am have more projects under my belt, I want to explore adding more interactive objects to my portfolio, like hover effects and image slideshows. I want to look into incorporating a different CSS library and using the GitHub API to access my repositories. I want to add functionality to the contact form and I would like to explore the idea of a feedback page, where users can offer feedback on what they see, offer advice, or propose new project ideas (either for me to work on or to work on together!).
 
 ## Links
 
-- [Live Portfolio Web Page](https://ncmarsh.github.io/portfolio/)
+- [Live Portfolio Web Page](https://ncmarsh.github.io/portfolio)
 - [Project Repository](https://github.com/ncmarsh/portfolio) 
 
 ## Contact

@@ -1,0 +1,12 @@
+/* Background Image  */
+body {
+    background-image: url("https://images.pexels.com/photos/2253573/pexels-photo-2253573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+h1,
+h3 {
+    color: #2893B0;
+}

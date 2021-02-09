@@ -1,0 +1,19 @@
+/* Projects */
+#project-card {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 16rem;
+    height: auto;
+    background-color: #cfcfcf;
+    border-color: #1b1b1b;
+}
+
+.project-title {
+    margin: .75rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.project-img {
+    padding: 0.5rem;
+}
