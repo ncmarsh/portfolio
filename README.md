@@ -1,4 +1,4 @@
-# Nicole Marshall's Portfolio
+# My Portfolio
 
 ![GitHub language count](https://img.shields.io/github/languages/count/ncmarsh/portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/ncmarsh/portfolio)
@@ -59,4 +59,4 @@ This is a personal project; no contributions are required at this time.
 
 No license granted.
 
-##### [Return to Top of Page](#Nicole-Marshall's-Portfolio)
+##### [Return to Top of Page](#My-Portfolio)
