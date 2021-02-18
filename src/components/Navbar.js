@@ -27,9 +27,9 @@ const Navbar = () => {
     return (
         <nav className="fixed-top sticky-top">
             <ul className="navbar fixed-top sticky-top navbar-expand-lg navbar-light" style={styles.navBar}>
-                <a href="/" className="navbar-brand" style={styles.navBarText}>
+                <Link to="/" className="navbar-brand" style={styles.navBarText}>
                     Nicole Marshall
-                </a>
+                </Link>
                 <button 
                     className="navbar-toggler" type="button" 
                     data-toggle="collapse" data-target="#navbarNavAltMarkup" 
