@@ -17,6 +17,14 @@
     },
     {
         "id": 3,
+        "title": "Google Books Search",
+        "liveUrl": "https://arcane-taiga-81797.herokuapp.com/",
+        "repoUrl": "https://github.com/ncmarsh/google_books_search",
+        "image": "/images/search_screenshot.png",
+        "alt": "Google Books Search screenshot"
+    },
+    {
+        "id": 4,
         "title": "Note Taker",
         "liveUrl": "https://protected-eyrie-40326.herokuapp.com/",
         "repoUrl": "https://github.com/ncmarsh/note_taker",
@@ -24,7 +32,7 @@
         "alt": "Note Taker screenshot"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Team Generator",
         "liveUrl": "https://www.youtube.com/watch?v=CNFqOki0PWo&feature=youtu.be",
         "repoUrl": "https://github.com/ncmarsh/software_engineering_team_generator",
@@ -32,7 +40,7 @@
         "alt": "Team Generator screenshot"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Weather Dashboard",
         "liveUrl": "https://ncmarsh.github.io/6_weather_dashboard/",
         "repoUrl": "https://github.com/ncmarsh/6_weather_dashboard",
@@ -40,7 +48,7 @@
         "alt": "Weather Dashboard screenshot"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Day Planner",
         "liveUrl": "https://ncmarsh.github.io/5_dayplanner/",
         "repoUrl": "https://github.com/ncmarsh/5_dayplanner",
