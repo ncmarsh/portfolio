@@ -1,12 +1,10 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelopeOpen, faFilePdf, faPhoneSquare, faUser } from "@fortawesome/free-solid-svg-icons";
+import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelopeOpen } from "@fortawesome/free-regular-svg-icons";
 
 const styles = {
-    list: {
-        listStyleType: "none"
-    },
     itemTitle: {
         fontWeight: "bold",
         color: "#343A40"
@@ -15,44 +13,32 @@ const styles = {
 
 function ContactInfo() {
     return (
-        <ul style={styles.list}>
+        <div>
             {/* Github */}
-            <li>
-                <FontAwesomeIcon icon={faGithub} />
+            <p>
+                <FontAwesomeIcon icon={faGithub} size="4x" color="#7C007C" />
                 <span style={styles.itemTitle}> Github: </span>
                 <a href="https://github.com/ncmarsh" target="_blank">@ncmarsh</a>
-            </li>
+            </p>
             {/* LinkedIn */}
-            <li>
-                <FontAwesomeIcon icon={faLinkedin} />
+            <p>
+                <FontAwesomeIcon icon={faLinkedin} size="4x" color="#0A66C2" />
                 <span style={styles.itemTitle}> LinkedIn: </span> 
                 <a href="https://www.linkedin.com/in/nicole-marshall-67375a98/" target="_blank">nicole-marshall</a>
-            </li>
+            </p>
             {/* Email */}
-            <li>
-                <FontAwesomeIcon icon={faEnvelopeOpen} />
+            <p>
+                <FontAwesomeIcon icon={faEnvelopeOpen} size="4x" color="#343A40" />
                 <span style={styles.itemTitle}> Email: </span> 
                 <a href="mailto:marshall.nicole522@gmail.com">marshall.nicole522@gmail.com</a>
-            </li>
+            </p>
             {/* Resume */}
-            <li>
-                <FontAwesomeIcon icon={faFilePdf} />
+            <p>
+                <FontAwesomeIcon icon={faFilePdf} size="4x" color="#A50000" />
                 <span style={styles.itemTitle}> View: </span> 
                 <a href={process.env.PUBLIC_URL + "/assets/Nicole_Marshall_resume.pdf"} target="_blank">Resume</a>
-            </li>
-            {/* Phone */}
-            <li>
-                <FontAwesomeIcon icon={faPhoneSquare} />
-                <span style={styles.itemTitle}> Phone: </span> 
-                <a href="tel:360-220-3079">Call</a>
-            </li>
-            {/* Portfolio */}
-            <li>
-                <FontAwesomeIcon icon={faUser} />
-                <span style={styles.itemTitle}> View: </span> 
-                <a href="https://ncmarsh.github.io/portfolio/portfolio.html">Portfolio</a>
-            </li>
-        </ul>
+            </p>
+        </div>
     )
 }
 
