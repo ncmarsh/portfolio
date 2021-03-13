@@ -14,14 +14,12 @@ class Portfolio extends React.Component {
             <Container>
                 <Row>
                     <ContentCard>
-                        <Col size="xs-12 sm-10 md-7 lg-10">
+                        <Col size="xs-12 sm-10 md-11 lg-11">
                             <h1>Portfolio</h1>
                             <hr />
-                            <Row>
-                                {this.state.ProjectsList.map(item =>
-                                    <ProjectCard key={item.id} {...item} />)
-                                }
-                            </Row>
+                            {this.state.ProjectsList.map(item =>
+                                <ProjectCard key={item.id} {...item} />)
+                            }
                         </Col>
                     </ContentCard>
                 </Row>

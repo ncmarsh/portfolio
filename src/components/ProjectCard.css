@@ -2,10 +2,11 @@
 #project-card {
     margin-top: 1rem;
     margin-left: 2rem;
-    width: 16rem;
+    /* width: 16rem; */
     height: auto;
-    background-color: #cfcfcf;
+    background-color: #86BFC9;
     border-color: #1b1b1b;
+    box-shadow: 5px 10px 10px #03293C;
 }
 
 .project-title {
@@ -16,4 +17,6 @@
 
 .project-img {
     padding: 0.5rem;
+    border-radius: 12px;
+    max-height: 500px;
 }
