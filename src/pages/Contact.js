@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "../components/Grid";
 import ContentCard from "../components/ContentCard";
+import ContactInfo from "../components/ContactInfo";
 import "./Contact.css";
 
 function Contact() {
@@ -8,7 +9,17 @@ function Contact() {
         <Container>
             <Row>
                 <ContentCard>
-                    <form>
+                    <Col size="xs-6 md-8">
+                        <h1>Contact</h1>
+                        <hr />
+                        <Row>
+                            <Col size="md-12">
+                                <p>Please feel free to connect with me with any questions, comments or ideas you may have.</p>
+                                <ContactInfo />
+                            </Col>
+                        </Row>
+                    </Col>
+                    {/* <form>
                         <Col size="xs-6 md-8">
                             <h1>Contact</h1>
                             <hr />
@@ -30,7 +41,7 @@ function Contact() {
                                 </Col>
                             </Row>
                         </Col>
-                    </form>
+                    </form> */}
                 </ContentCard>
             </Row>
         </Container>
