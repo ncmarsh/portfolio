@@ -1,15 +1,9 @@
 import React from "react";
 
-const styles = {
-    container: {
-        marginLeft: "2rem"
-    }
-}
-
 // Container
 export function Container({ fluid, children }) {
     return (
-        <div className={`container${fluid ? "-fluid" : ""}`} style={styles.container}>
+        <div className={`container${fluid ? "-fluid" : ""}`}>
             {children}
         </div>
     )
