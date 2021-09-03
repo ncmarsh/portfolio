@@ -21,10 +21,10 @@ function ProjectCard(props) {
                         <h5 className="card-title project-title">{props.title}</h5>
                         <div className="d-flex justify-content-center">
                             <h6 className="p-2">
-                                <a href={props.liveUrl} target="_blank">Visit the Live Page</a>
+                                <a href={props.liveUrl} target="_blank" rel="noreferrer">Visit the Live Page</a>
                             </h6>
                             <h6 className="ms-auto p-2">
-                                <a href={props.repoUrl} target="_blank">GitHub Repository</a>
+                                <a href={props.repoUrl} target="_blank" rel="noreferrer">GitHub Repository</a>
                             </h6>
                         </div>
                         <p className="card-text">{props.use}</p>
