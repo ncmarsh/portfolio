@@ -21,10 +21,10 @@ function About() {
                         <hr />
                         <img className="img-fluid" style={styles.myPic} src={process.env.PUBLIC_URL + "/assets/headshot.jpg"} alt="headshot" />
                         <p>
-                            Hello and welcome! My name is Nicole Marshall and I am a Full-Stack Developer who has earned a certificate in Full-Stack Web Development from the University of Washington Coding Boot Camp in February 2021. I enjoy building intuitive, responsive and interactive web applications, both on my own and through collaboration with a team. Among the coding languages I have learned so far, I have found that I enjoy using JavaScript the most because of its versatility of creating both interactive and static elements and its usability between front-end and back-end development.
+                            Hello and welcome! My name is Nicole Marshall and I am a Software Engineer who has earned a certificate in Full-Stack Web Development from the University of Washington Coding Boot Camp in February 2021, became certified as a Section 508 Trusted Tester (accessibility testing) through DHS and completed the Associate Front-end Developer program at iSoftstone. I am currently working on the front end of a client's external website, adding new features and fixing accessibility bugs using TypeScript, CSS and HTML. I enjoy building intuitive, responsive and accessible web applications, both on my own and through collaboration with a team. Among the coding languages I have learned so far, I have found that I enjoy using TypeScript the most because of its versatility of creating both interactive and static elements, its usability between front-end and back-end development and its ability to create more stable code.
                         </p>
                         <p>
-                            Outside of coding, my hobbies include playing video games and board games, jigsaw puzzles, dancing and when it's nice out, hiking (though what I consider a hike, others refer to as nature walks). Back in the day, I also frequented the movie theater and enjoyed travelling... remember that?
+                            Outside of coding, my hobbies include playing video games and board games, jigsaw puzzles, dancing and when it's nice out, hiking (though what I consider a hike, others refer to as nature walks). I'm also enjoying being able to get back to the movie theater and traveling.
                         </p>
                         <Row>
                             <Col size="xs-6 md-8">
